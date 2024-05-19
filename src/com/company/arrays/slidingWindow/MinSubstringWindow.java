@@ -1,9 +1,6 @@
-package com.company.slidingWindow;
+package com.company.arrays.slidingWindow;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
 
 // Minimum size of a window in a string to have a substring
 public class MinSubstringWindow {

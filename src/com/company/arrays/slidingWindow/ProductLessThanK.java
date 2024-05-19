@@ -1,4 +1,4 @@
-package com.company.slidingWindow;
+package com.company.arrays.slidingWindow;
 
 public class ProductLessThanK {
     public static void main(String[] args) {

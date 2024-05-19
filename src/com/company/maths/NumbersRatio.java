@@ -1,4 +1,4 @@
-package com.company.hackerRank;
+package com.company.maths;
 import java.util.*;
 public class NumbersRatio {
     public static void plusMinus(List<Integer> arr) {
