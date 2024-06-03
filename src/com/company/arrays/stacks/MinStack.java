@@ -21,8 +21,7 @@ public class MinStack {
     }
 
     public void pop() {
-        stack.removeLast();
-        minStack.removeLast();
+
     }
 
 

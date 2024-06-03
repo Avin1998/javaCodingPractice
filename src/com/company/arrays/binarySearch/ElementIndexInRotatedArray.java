@@ -1,6 +1,4 @@
-package com.company.binarySearch;
-
-import java.util.Arrays;
+package com.company.arrays.binarySearch;
 
 public class ElementIndexInRotatedArray {
     public static void main(String args[]) {
